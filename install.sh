@@ -1,3 +1,3 @@
-npm install
+npm instal
 
 npm i -g forever && forever index.js && forever save && forever logs
