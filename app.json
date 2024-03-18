@@ -16,16 +16,16 @@
   ],
   "website": "https://github.com/T-code-bit/TRIBAL/blob/main/README.md",
   "repository": "https://github.com/T-code-bit/TRIBAL.git",
-  "logo": "https://i.imgur.com/iSDfKz1.jpeg",
+  "logo": "https://i.imgur.com/R9Fva2U.jpeg",
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of crown MD Ex: . , / , # , & etc. Put any symbol",
+      "description": "Prefix of 𝐓𝐑𝐈𝐁𝐀𝐋 𝐁𝐎𝐓 Ex: . , / , # , & etc. Put any symbol",
       "required": true
 
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 923195832822, 254712624687 ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex:  254782662427 ",
       "required": true
     },
     "NOT_OWNER_MSG": {
