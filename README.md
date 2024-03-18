@@ -13,16 +13,7 @@
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-**༒BRAYO™༒**-black.svg?style=for-the-badge&logo=github"></a>
 
-</p>
-<p align="center">
-<a href="'https://wa.me/254782662427+~༒ᶦᵃᵐ᭄BRAYO™༒* +HEY+DO+YOU+HAVE+ANY+UPDATES+ON+TRIBAL+BOT'"><img title="Whatsapp" src="'https://wa.me/254782662427+~༒ᶦᵃᵐ᭄BRAYO™༒* +HEY+DO+YOU+HAVE+ANY+UPDATES+ON+TRIBAL+BOT'?color=blue&style=flat-square"></a>
-  
-<a href="https://wa.me/254782662427+~༒ᶦᵃᵐ᭄BRAYO™༒*"><img title="Twitter" src="https://x.com/TRIBAL?s=09?color=black&style=flat-square"></a>
-<a href="https://github.com/T-code-bit/TRIBAL/network/members"><img title="Forks" src="github/fork/T-code-bit/TRIBAL?color=blue&style=flat-square"></a>
-<a href="https://github.com/owlai01/TRIBAL/watchers"><img title="Watching" src="github/watchers/T-code-bit/TRIBAL?label=Watchers&color=yellow&style=flat-square"></a>
-<a href="https://github.com/T-code-bit/TRIBAL/"><img title="Size" src="github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=deepblue"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/owlai01/Owl-Ai/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/T-code-bit/TRIBAL/graphs/commit-activity"><img height="20" src="https://i.ibb.co/WzzPmMF/fhdmotors885.jpg/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+
 </p>
 
 
