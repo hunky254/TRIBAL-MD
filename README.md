@@ -9,6 +9,10 @@
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=TRIBAL-BOT+WHATSAPP+BOT" alt="">
 
+  </p>
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-**༒BRAYO™༒**-black.svg?style=for-the-badge&logo=github"></a>
+
 </p>
 <p align="center">
 <a href="'https://wa.me/254782662427+~༒ᶦᵃᵐ᭄BRAYO™༒* +HEY+DO+YOU+HAVE+ANY+UPDATES+ON+TRIBAL+BOT'"><img title="Whatsapp" src="'https://wa.me/254782662427+~༒ᶦᵃᵐ᭄BRAYO™༒* +HEY+DO+YOU+HAVE+ANY+UPDATES+ON+TRIBAL+BOT'?color=blue&style=flat-square"></a>
