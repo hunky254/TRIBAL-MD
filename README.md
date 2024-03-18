@@ -4,7 +4,7 @@
   </p>
   
 <p align="center">
-<img src="https://i.ibb.co/WzzPmMF/fhdmotors885.jpg" width="600" height="800"/>
+<img src="https://i.imgur.com/aVcPNVz.mp4" width="600" height="800"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=orange&center=true&vCenter=true&multiline=false&lines=𝐓𝐑𝐈𝐁𝐀𝐋+𝐓𝐄𝐂𝐇+𝐇𝐔𝐁+WHATSAPP+BOT" alt="">
